@@ -1,0 +1,4 @@
+When you try to create a ACI in Azure please note
+
+1. Image registry login server must be index.docker.io
+2. Always provide the tag information in the image info.
