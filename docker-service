@@ -1,0 +1,1 @@
+docker service create --replicas 3 --network front-end --name vote -p 8080:80 voting-app
